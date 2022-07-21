@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  ChildFrm.cpp
+  ClassView.cpp
+  FileView.cpp
+  Helloworld.cpp
+  HelloworldDoc.cpp
+  HelloworldView.cpp
+  MainFrm.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  Создание кода...
+  Helloworld.vcxproj -> C:\Users\Virod\source\repos\Helloworld\Debug\Helloworld.exe
